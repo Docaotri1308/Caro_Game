@@ -1,5 +1,5 @@
-#ifndef TICTACTOE_BOARD_H
-#define TICTACTOE_BOARD_H
+#ifndef CARO_BOARD_H
+#define CARO_BOARD_H
 
 #include <string.h>
 #include <iostream>

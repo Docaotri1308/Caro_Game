@@ -1,5 +1,5 @@
-#ifndef TICTACTOE_PLAYER_H
-#define TICTACTOE_PLAYER_H
+#ifndef CARO_PLAYER_H
+#define CARO_PLAYER_H
 #include <iostream>
 #include <string>
 
